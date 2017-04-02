@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from nltk import word_tokenize
 from bs4 import BeautifulSoup
 import mechanize
